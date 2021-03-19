@@ -22,3 +22,13 @@ A SoundGenerator instance must be passed to the StringToSound function in main.p
 ## Examples  
 
 Run example.py or listen to the generated wav files in the media folder.  
+
+
+## Credits  
+
+Timing information was taken from the morsecodeclass.net  
+https://www.morsecodeclassnet.com/lesson3/#:~:text=Each%20dit%2C%20the%20short%20sound,the%20spacing%20within%20each%20character.  
+
+morse-code.json file comes a gist by mohayonao  
+https://gist.github.com/mohayonao/094c71af14fe4791c5dd  
+
